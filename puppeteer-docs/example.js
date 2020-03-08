@@ -1,5 +1,5 @@
 // Navigate to https://example.com and take a screenshot
-const puppeteer = require('puppeteer');
+// const puppeteer = require('puppeteer');
 
 // Everything happens in sequence because of the awaits
 (async () => {

@@ -1,6 +1,6 @@
 // evaluate script (function) in the context of a page
 // Default is headless
-const puppeteer = require('puppeteer');
+// const puppeteer = require('puppeteer');
 
 (async () => {
   // devtools: true allows you to debug within the browser
